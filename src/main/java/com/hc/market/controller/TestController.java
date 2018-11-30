@@ -21,7 +21,7 @@ public class TestController {
             System.out.println(user.toString());
         }
 
-        System.out.println("测试更新1");
+        System.out.println("测试更新3");
 
         return "about";
     };
