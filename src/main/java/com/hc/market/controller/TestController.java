@@ -20,6 +20,8 @@ public class TestController {
         for (User user : users) {
             System.out.println(user.toString());
         }
+        System.out.println("111111111");
+        System.out.println("测试更新");
         return "about";
     };
 
